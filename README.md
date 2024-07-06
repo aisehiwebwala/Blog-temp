@@ -58,11 +58,11 @@ int main(){
   }
   return 0;
 }
-```json
+```
 Time Complexity : O(sqrt(N))<br>
 Space Complexity : O(N)
 
-```
+```json
 {
   "squadName": "Super hero squad",
   "homeTown": "Metro City",
